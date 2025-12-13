@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Serialization-Deserialization/Java-Serialization-Deserialization.iml" filepath="$PROJECT_DIR$/Java-Serialization-Deserialization/Java-Serialization-Deserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Tutorials.iml" filepath="$PROJECT_DIR$/Java-Tutorials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransientDemo/TransientDemo.iml" filepath="$PROJECT_DIR$/TransientDemo/TransientDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams.iml" filepath="$PROJECT_DIR$/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams.main.iml" filepath="$PROJECT_DIR$/.idea/modules/streams.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streams.test.iml" filepath="$PROJECT_DIR$/.idea/modules/streams.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try-with-resources/try-with-resources.iml" filepath="$PROJECT_DIR$/try-with-resources/try-with-resources.iml" />
+    </modules>
+  </component>
+</project>
